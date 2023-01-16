@@ -1,0 +1,66 @@
+.main {
+  margin-top: 10px;
+  text-align: center;
+}
+.dropdown-container {
+  padding-top: 80px;
+}
+.dropdown-button {
+  border: 2px solid rgb(190, 205, 210);
+  width: 30%;
+  margin: 10px;
+}
+
+.dropdown-button input {
+  text-align: center;
+  font-size: larger;
+  font-weight: 600;
+  padding: 3px;
+  width: 80%;
+}
+.dropdown-menu-list {
+  border: 2px solid rgb(190, 205, 210);
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 800;
+  width: 30%;
+  text-align: center;
+  list-style: none;
+  color: white;
+}
+
+.dropdown-menu-item {
+  padding: 10px;
+  margin: 2px;
+  transition: 0.3s;
+}
+
+.dropdown-menu-item:hover {
+  background-color: grey;
+  transform: scale(1.1);
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.App {
+  height: 500px;
+  background-color: rgb(183, 230, 239);
+}
