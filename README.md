@@ -5,7 +5,7 @@ Dropdown On Hover create using React.js
 - Upon hover on the dropdown the menu appears.
 - User can select an option and menu closes and the seleceted option appears in dropdown adn amenu disappears.
 
-# <a href="[https://anushassr.github.io/AlarmClock/](https://63c7db7418c1fe106c1980ca--animated-moonbeam-6fb9bb.netlify.app/)" target="_blank">Click here</a> to check the dropdown on hover in action.
+# <a href="https://63c7db7418c1fe106c1980ca--animated-moonbeam-6fb9bb.netlify.app/" target="_blank">Click here</a> to check the dropdown on hover in action.
 
 
 # Getting Started with Create React App
